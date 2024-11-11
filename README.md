@@ -51,7 +51,7 @@ To ensure the security of the PayView Payment Portal, the following measures hav
 
 ## Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/Y2JlzVdDwGg/0.jpg)](https://www.youtube.com/watch?v=Y2JlzVdDwGg)
+[![Watch the video](https://img.youtube.com/vi/7AJ2V1-x7Vc/0.jpg)](https://www.youtube.com/watch?v=7AJ2V1-x7Vc)
 
 ## Prerequisites
 
@@ -300,6 +300,12 @@ These endpoints manage user data and are protected by a session token.
         * `message`: User's message (string)
     * **Output:**
         * Success message: "Expect an email response shortly..."
+     
+### Circle-CI and SonarQube:
+![image](https://github.com/user-attachments/assets/caee8fb5-0707-471d-bce2-c6e28de173d2)
+![image](https://github.com/user-attachments/assets/04452387-9319-4a05-a0b5-95330a9dd066)
+![image](https://github.com/user-attachments/assets/660d9b00-e341-4e3b-8727-ec0739b05b7d)
+![image](https://github.com/user-attachments/assets/72057fb6-f659-406e-8a6c-095e50a91f3e)
 
 
 ### References:
